@@ -8,10 +8,7 @@ foreach ($variable as $key => $value) {
 
 
 $retVal = (condition) ? a : b ;
-<<<<<<< HEAD
 echo "1 first";
-=======
-echo "first";
->>>>>>> 94fa508ff4fed6b9da454d34cb0de28fa654051d
+
 
 ?>
