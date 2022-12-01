@@ -8,6 +8,6 @@ foreach ($variable as $key => $value) {
 
 
 $retVal = (condition) ? a : b ;
-echo "first";
+echo "1";
 
 ?>
