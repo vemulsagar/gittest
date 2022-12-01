@@ -7,4 +7,5 @@ foreach ($variable as $key => $value) {
 }
 
 echo "This is sagar vemul";
+
 ?>
