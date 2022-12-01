@@ -1,4 +1,4 @@
 <?php
 
-echo "third";
+echo "thirdass";
 ?>
