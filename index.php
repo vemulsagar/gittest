@@ -8,6 +8,6 @@ foreach ($variable as $key => $value) {
 
 
 $retVal = (condition) ? a : b ;
-echo "This is saagar vemul";
+echo "This is saagar vemul s";
 
 ?>
