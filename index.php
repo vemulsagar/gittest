@@ -1,5 +1,8 @@
 <?php
 echo "Hello world sagar";
-echo "gauvav";
+echo "Hedagaurav93@gmail.com";
 
+foreach ($variable as $key => $value) {
+    # code...
+}
 ?>
